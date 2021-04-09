@@ -1,0 +1,13 @@
+/*test1*/
+div {
+  /*test2*/
+  width: 100px; /*test3*/
+  /*test4*/
+  height: 100px;
+  /*test5*/
+}
+/*test6*/
+div {
+  height: 100px;
+  width: 100px;
+}

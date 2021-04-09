@@ -1,0 +1,61 @@
+div {
+  width: 100px;
+  height: 100px;
+}
+
+.content {
+  width: 100px;
+  height: 100px;
+}
+
+#main {
+  width: 100px;
+  height: 100px;
+}
+
+div .title {
+  width: 100px;
+  height: 100px;
+}
+
+div .title,
+h1 {
+  font-size: 24px;
+  color: #4f43f6;
+}
+
+div {
+  width: 100px;
+  height: 100px;
+}
+
+.content {
+  width: 100px;
+  height: 100px;
+}
+
+#main {
+  width: 100px;
+  height: 100px;
+}
+
+div .title {
+  width: 100px;
+  height: 100px;
+}
+
+div .title,
+h1 {
+  font-size: 24px;
+  color: #4f43f6;
+}
+
+div {
+  width: 10px;
+  height: 100px;
+}
+
+div {
+  height: 100px;
+  width: 100px;
+}
